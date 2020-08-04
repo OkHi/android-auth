@@ -1,0 +1,3 @@
+rootProject.name='OkHi Auth'
+include ':app'
+include ':okhi-auth'
